@@ -1,0 +1,1 @@
+console.log("Bharath's AWS static website loaded successfully.");
